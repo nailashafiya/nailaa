@@ -3,4 +3,4 @@ import streamlit as st
 st.title("🪄Tralala")
 st.write(
     "haii hai")
-st.image("png-clipart-aristocats-marie-illustration-marie-cat-drawing-youtube-mary-white-mammal.png", width=200)
+st.image("1000036484-removebg-preview.png", width=200)
